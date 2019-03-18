@@ -1,0 +1,10 @@
+cv2
+numpy
+Queue
+imutils
+serial
+sklearn
+SpeechRecognition
+gtts
+pygame
+chatterbot
